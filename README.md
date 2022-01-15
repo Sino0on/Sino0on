@@ -12,4 +12,4 @@ Here are some ideas to get you started: -->
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sino0on)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api username=Sino0on &theme=radical)
