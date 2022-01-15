@@ -5,9 +5,9 @@ Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on Python/Django
 - 🌱 I’m currently learning Machine Learning
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with hz
 - 💬 Ask me about my skills
-- 📫 How to reach me: study very hard
+- 📫 How to reach me: dastan.kubanuulu1@gmail.com
 - ⚡ Fun fact: 300
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sino0on&theme=radical)
